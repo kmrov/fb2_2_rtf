@@ -11,4 +11,4 @@ For now just clone the project and install the following packages (for Ubuntu): 
 Usage
 =====
 
-perl fb2_2_rtf.pl <input_filename> FB2_2_rtf.xsl <output_filename>
+perl fb2_2_rtf.pl \<input_filename\> FB2_2_rtf.xsl \<output_filename\>
