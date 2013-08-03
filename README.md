@@ -11,4 +11,8 @@ For now just clone the project and install the following packages (for Ubuntu): 
 Usage
 =====
 
+Conversion to RTF format:
 perl fb2_2_rtf.pl \<input_filename\> FB2_2_rtf.xsl \<output_filename\>
+
+Conversion to TXT format:
+perl fb2_2_rtf.pl \<input_filename\> FB2_2_txt.xsl \<output_filename\>
